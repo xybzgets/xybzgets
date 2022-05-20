@@ -1,7 +1,7 @@
 [comment]:  _____________________
-[comment]:/ Huh... Must be that \
-[comment]:\ I am Tux...         /
-[comment]: ---------------------
+[comment]: / Huh... Must be that \
+[comment]: \ I am Tux...         /
+[comment]:  ---------------------
 [comment]:   \
 [comment]:    \
 [comment]:        .--.
