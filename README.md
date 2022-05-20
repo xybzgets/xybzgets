@@ -1,13 +1,13 @@
 [comment]:  _____________________
-/ Huh... Must be that \
-\ I am Tux...         /
- ---------------------
-   \
-    \
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
+[comment]:/ Huh... Must be that \
+[comment]:\ I am Tux...         /
+[comment]: ---------------------
+[comment]:   \
+[comment]:    \
+[comment]:        .--.
+[comment]:       |o_o |
+[comment]:       |:_/ |
+[comment]:      //   \ \
+[comment]:     (|     | )
+[comment]:    /'\_   _/`\
+[comment]:    \___)=(___/
